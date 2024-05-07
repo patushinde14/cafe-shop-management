@@ -1,0 +1,37 @@
+
+body{
+  background: wheat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+.card {
+  Box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  Max-width: 300px;
+  Margin: auto;
+  Text-align: center;
+  Font-family: arial;
+}
+
+.price {
+  Color: grey;
+  Font-size: 22px;
+}
+
+.card button {
+  Border: none;
+  Outline: 0;
+  Padding: 12px;
+  Color: white;
+  Background-color: #000;
+  Text-align: center;
+  Cursor: pointer;
+  Width: 100%;
+  Font-size: 18px;
+}
+
+.card button:hover {
+  Opacity: 0.7;
+}
+
+
