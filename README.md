@@ -55,7 +55,7 @@ cafe-management-system/
 │── database/       # Database scripts (if using SQL/MongoDB)
 └── README.md       # Documentation file
 ```
-## Link : hotcupofctrl.netlify.app
+## Link : [hotcupofctrl.netlify.app](https://hotcupofctrl.netlify.app/)
 ## Future Enhancements
 - Implement online ordering and payment processing.
 - Add real-time order tracking.
