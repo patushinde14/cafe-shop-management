@@ -19,7 +19,7 @@ The **Cafe Shop Management System** is a web-based application designed to strea
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/cafe-management-system.git
+   git clone https://github.com/patushinde14/cafe-management-system.git
    ```
 2. Navigate to the project folder:
    ```sh
