@@ -5,9 +5,6 @@ The **Cafe Shop Management System** is a web-based application designed to strea
 
 ## Features
 - **Menu Management** – Add, update, and delete menu items.
-- **Order Management** – Take customer orders and generate bills.
-- **Inventory Tracking** – Monitor stock levels of ingredients and supplies.
-- **Customer Management** – Store customer details and order history.
 - **User Authentication** – Secure login for staff and admin.
 - **Responsive Design** – Works across all devices (mobile, tablet, and desktop).
 
