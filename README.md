@@ -27,15 +27,7 @@ The **Cafe Shop Management System** is a web-based application designed to strea
    ```
 3. Open `index.html` in a web browser.
 
-### For Backend Setup (if applicable)
-4. Install dependencies:
-   ```sh
-   npm install
-   ```
-5. Start the backend server:
-   ```sh
-   node server.js
-   ```
+
 
 ## Usage
 1. Open the Cafe Management System in a browser.
@@ -60,6 +52,15 @@ cafe-management-system/
 - Implement online ordering and payment processing.
 - Add real-time order tracking.
 - Introduce analytics for sales and inventory.
+
+## 📸 Preview
+![image](https://github.com/user-attachments/assets/b6d4f986-089b-4744-816b-33f19238a8ac)
+![image](https://github.com/user-attachments/assets/d028e1e4-6aa7-4a37-aa9f-e8e5d14c3cd6)
+![image](https://github.com/user-attachments/assets/8ce7e0d8-5797-44ff-98c2-0a57c6ff7789)
+![image](https://github.com/user-attachments/assets/f6a4e071-4ff9-44e9-99ab-14594ecf56c0)
+
+
+
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
